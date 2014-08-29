@@ -17,7 +17,9 @@ telnet towel.blinkenlights.nl
 
 ### Choo! Choo!
 
-Hop on the command line train! First type this into your terminal to install: brew install sl
+Hop on the command line train! 
+
+First type this into your terminal to install: brew install sl
 
 Then after install type this: sl
 
