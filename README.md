@@ -1,7 +1,8 @@
 ---
-  tags: culture
-  languages: ruby
+  tags: kids, cli
+  languages: bash
   level: 1
+  type: culture
 ---
 
 # Keeping it real
