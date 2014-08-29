@@ -13,7 +13,7 @@ The command line isn't all business, check out these cool [easter eggs](http://g
 ### Star Wars
 Type this into the command line to see the original Star Wars movie play out in [ASCII characters](http://www.asciitable.com/): 
 
-telnet towel.blinkenlights.nl
+'telnet towel.blinkenlights.nl'
 
 ### Choo! Choo!
 
