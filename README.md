@@ -26,17 +26,19 @@ Then after install type this: sl
 ### Enter the matrix
 
 To install type: brew install cmatrix
+
 To play type: cmatrix
 
 ### Get your fortune
 
 To install: brew install fortune
+
 To play: fortune
 
 ### Cowsay
 
-Step 1: brew install cowsay
-Step 2: cowsay Anything you want the cow to say
+To install: brew install cowsay
+To play: cowsay Anything you want the cow to say
 
 ### Get your fortune from a cow
 
