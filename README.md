@@ -29,17 +29,19 @@ To install type: brew install cmatrix
 
 To play type: cmatrix
 
+### Cowsay
+
+To install: brew install cowsay
+
+To play: cowsay Anything you want the cow to say
+
+
 ### Get your fortune
 
 To install: brew install fortune
 
 To play: fortune
 
-### Cowsay
-
-To install: brew install cowsay
-
-To play: cowsay Anything you want the cow to say
 
 ### Get your fortune from a cow
 
