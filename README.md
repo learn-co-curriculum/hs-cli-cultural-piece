@@ -51,5 +51,5 @@ If you already have fortune and cowsay installed, then you can use piping to get
 
 You can learn more about piping [here] (http://cli.learncodethehardway.org/book/ex15.html)
 
-And even more command line magic can be found [here](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/)
+Even more command line magic can be found [here](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/). Just make sure to use `brew install' instead of apt-get.
 
