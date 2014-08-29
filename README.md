@@ -38,15 +38,16 @@ To play: fortune
 ### Cowsay
 
 To install: brew install cowsay
+
 To play: cowsay Anything you want the cow to say
 
 ### Get your fortune from a cow
 
-If you already have fortune and cowsay installed you can easily have the cow tell you your fortune using piping like so:
+If you already have fortune and cowsay installed, then you can use piping to get your fortune straight from the cow's mouth like so:
 
 fortune | cowsay 
 
-You can learn more about piping [here]: (http://cli.learncodethehardway.org/book/ex15.html)
+You can learn more about piping [here] (http://cli.learncodethehardway.org/book/ex15.html)
 
 And even more command line magic can be found [here](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/)
 
