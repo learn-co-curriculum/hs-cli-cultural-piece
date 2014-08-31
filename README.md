@@ -22,7 +22,7 @@ Hop on the command line train!
 
 First type this into your terminal to install: `brew install sl`
 
-Then after install type this: `sl`
+After it installs, type this: `sl`
 
 ### Enter the matrix
 
