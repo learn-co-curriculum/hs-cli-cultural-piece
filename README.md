@@ -20,26 +20,39 @@ Type this into the command line to see the original Star Wars movie play out in 
 
 Hop on the command line train! 
 
-First type this into your terminal to install: `brew install sl`
+First type this into your terminal to install: 
+
+`brew install sl` (if you are using a Mac)
+or
+`apt-get install ls` (if you are using a Chrome book)
 
 After it installs, type this: `sl`
 
 ### Enter the matrix
 
-To install type: `brew install cmatrix`
+To install type: 
+`brew install cmatrix` (if you are using a Mac)
+or
+`apt-get install cmatrix` (if you are using a Chrome book)
 
 To play type: `cmatrix`
 
 ### Cowsay
 
-To install: `brew install cowsay`
+To install: 
+`brew install cowsay`
+or
+`apt-get install cowsay` 
 
 To play: `cowsay Anything you want the cow to say`
 
 
 ### Get your fortune
 
-To install: `brew install fortune`
+To install: 
+`brew install fortune`
+or
+`apt-get install fortune` 
 
 To play: `fortune`
 
