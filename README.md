@@ -31,6 +31,7 @@ After it installs, type this: `sl`
 ### Enter the matrix
 
 To install type: 
+
 `brew install cmatrix` (if you are using a Mac)
 or
 `apt-get install cmatrix` (if you are using a Chrome book)
@@ -40,6 +41,7 @@ To play type: `cmatrix`
 ### Cowsay
 
 To install: 
+
 `brew install cowsay`
 or
 `apt-get install cowsay` 
@@ -50,6 +52,7 @@ To play: `cowsay Anything you want the cow to say`
 ### Get your fortune
 
 To install: 
+
 `brew install fortune`
 or
 `apt-get install fortune` 
