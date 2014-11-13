@@ -10,11 +10,16 @@
 The command line isn't all business, check out these cool [easter eggs](http://gizmodo.com/a-brief-history-of-easter-eggs-in-tech-5900026) that you can play with in the terminal.
 
 ### Star Wars
+<img src="https://s3.amazonaws.com/after-school-assets/star-wars" style="width:300px;">
 Type this into the command line to see the original Star Wars movie play out in [ASCII characters](http://www.asciitable.com/): 
-`telnet towel.blinkenlights.nl`
+```bash
+telnet towel.blinkenlights.nl
+```
 
 ### Choo! Choo!
-Hop on the command line train! 
+Hop on the command line train!
+<img src="https://s3.amazonaws.com/after-school-assets/train" style="width:300px;">
+PIC
 Enter this into your terminal to install on a Mac:
 ```bash
 brew install sl
@@ -26,6 +31,7 @@ apt-get install ls
 After it installs, enter: `sl`
 
 ### Enter the Matrix
+<img src="https://s3.amazonaws.com/after-school-assets/cmatrix" style="width:300px;">
 To install on Mac, enter: 
 ```bash
 brew install cmatrix
@@ -37,6 +43,7 @@ apt-get install cmatrix
 To run it, enter: `cmatrix`
 
 ### Cowsay
+<img src="https://s3.amazonaws.com/after-school-assets/cowsay" style="width:300px;">
 To install on Mac, enter:
 ```bash
 brew install cowsay
@@ -46,7 +53,6 @@ or, on PC:
 apt-get install cowsay
 ``` 
 To run it, enter: `cowsay <enter anything you want the cow to say here>`. For example: `cowsay moo!`
-
 
 ### Get your fortune
 To install on Mac, enter: 
