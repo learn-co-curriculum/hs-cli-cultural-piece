@@ -15,34 +15,45 @@ Type this into the command line to see the original Star Wars movie play out in 
 
 ### Choo! Choo!
 Hop on the command line train! 
-Enter this into your terminal to install:
-`brew install sl` (if you are using a Mac)
-or
-`apt-get install ls` (if you are using a Chrome book)
+Enter this into your terminal to install on a Mac:
+```bash
+brew install sl
+```
+or, for PCs:
+```bash
+apt-get install ls
+```
 After it installs, enter: `sl`
 
 ### Enter the Matrix
-To install, enter: 
-`brew install cmatrix` (if you are using a Mac)
-or
-`apt-get install cmatrix` (if you are using a Chrome book)
+To install on Mac, enter: 
+```bash
+brew install cmatrix
+```
+or, on PCs:
+```bash
+apt-get install cmatrix
+```
 To run it, enter: `cmatrix`
 
 ### Cowsay
-To install, enter:
+To install on Mac, enter:
 `brew install cowsay`
-or
+or, on PC:
 `apt-get install cowsay` 
 To run it, enter: `cowsay Anything you want the cow to say`
 
 
 ### Get your fortune
-To install, enter: 
-`brew install fortune`
-or
-`apt-get install fortune` 
+To install on Mac, enter: 
+```bash
+brew install fortune
+```
+or, on PC:
+```bash
+apt-get install fortune
+``` 
 To run it, enter: `fortune`
-
 
 ### Get your fortune from a cow
 If you already have fortune and cowsay installed, then you can use piping to get your fortune straight from the cow's mouth like so:
