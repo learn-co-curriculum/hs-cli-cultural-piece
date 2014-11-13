@@ -51,7 +51,7 @@ or, on PC:
 ```bash
 apt-get install cowsay
 ``` 
-To run it, enter: `cowsay <enter anything you want the cow to say here>`. For example: `cowsay moo!`
+To run it, enter: `cowsay "<enter anything you want the cow to say here>"`. For example: `cowsay "moo!"`
 
 ### Get your fortune
 To install on Mac, enter: 
