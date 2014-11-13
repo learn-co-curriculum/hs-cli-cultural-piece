@@ -19,7 +19,6 @@ telnet towel.blinkenlights.nl
 ### Choo! Choo!
 Hop on the command line train!
 <img src="https://s3.amazonaws.com/after-school-assets/train" style="width:400px;">
-PIC
 Enter this into your terminal to install on a Mac:
 ```bash
 brew install sl
