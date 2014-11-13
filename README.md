@@ -10,7 +10,7 @@
 The command line isn't all business, check out these cool [easter eggs](http://gizmodo.com/a-brief-history-of-easter-eggs-in-tech-5900026) that you can play with in the terminal.
 
 ### Star Wars
-<img src="https://s3.amazonaws.com/after-school-assets/star-wars" style="width:300px;">
+<img src="https://s3.amazonaws.com/after-school-assets/star-wars" style="width:400px;">
 Type this into the command line to see the original Star Wars movie play out in [ASCII characters](http://www.asciitable.com/): 
 ```bash
 telnet towel.blinkenlights.nl
@@ -18,7 +18,7 @@ telnet towel.blinkenlights.nl
 
 ### Choo! Choo!
 Hop on the command line train!
-<img src="https://s3.amazonaws.com/after-school-assets/train" style="width:300px;">
+<img src="https://s3.amazonaws.com/after-school-assets/train" style="width:400px;">
 PIC
 Enter this into your terminal to install on a Mac:
 ```bash
@@ -31,7 +31,7 @@ apt-get install ls
 After it installs, enter: `sl`
 
 ### Enter the Matrix
-<img src="https://s3.amazonaws.com/after-school-assets/cmatrix" style="width:300px;">
+<img src="https://s3.amazonaws.com/after-school-assets/cmatrix" style="width:400px;">
 To install on Mac, enter: 
 ```bash
 brew install cmatrix
@@ -43,7 +43,7 @@ apt-get install cmatrix
 To run it, enter: `cmatrix`
 
 ### Cowsay
-<img src="https://s3.amazonaws.com/after-school-assets/cowsay" style="width:300px;">
+<img src="https://s3.amazonaws.com/after-school-assets/cowsay" style="width:400px;">
 To install on Mac, enter:
 ```bash
 brew install cowsay
