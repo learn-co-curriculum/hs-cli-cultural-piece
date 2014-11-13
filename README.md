@@ -38,10 +38,14 @@ To run it, enter: `cmatrix`
 
 ### Cowsay
 To install on Mac, enter:
-`brew install cowsay`
+```bash
+brew install cowsay
+```
 or, on PC:
-`apt-get install cowsay` 
-To run it, enter: `cowsay Anything you want the cow to say`
+```bash
+apt-get install cowsay
+``` 
+To run it, enter: `cowsay <enter anything you want the cow to say here>`. For example: `cowsay moo!`
 
 
 ### Get your fortune
