@@ -23,7 +23,7 @@ Enter this into your terminal to install on a Mac:
 ```bash
 brew install sl
 ```
-or, for PCs:
+or on Linux:
 ```bash
 apt-get install ls
 ```
@@ -35,7 +35,7 @@ To install on Mac, enter:
 ```bash
 brew install cmatrix
 ```
-or, on PCs:
+or on Linux:
 ```bash
 apt-get install cmatrix
 ```
@@ -47,7 +47,7 @@ To install on Mac, enter:
 ```bash
 brew install cowsay
 ```
-or, on PC:
+or on Linux:
 ```bash
 apt-get install cowsay
 ``` 
@@ -58,7 +58,7 @@ To install on Mac, enter:
 ```bash
 brew install fortune
 ```
-or, on PC:
+or on Linux:
 ```bash
 apt-get install fortune
 ``` 
