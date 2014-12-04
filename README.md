@@ -69,7 +69,7 @@ If you already have fortune and cowsay installed, then you can use piping to get
 ```bash
 fortune | cowsay
 ```
-You can learn more about piping [here] (http://cli.learncodethehardway.org/book/ex15.html)
+(You can learn more about piping [here] (http://cli.learncodethehardway.org/book/ex15.html).)
 
 Even more command line magic can be found [here](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/). Just make sure to use `brew install` instead of `apt-get` if you're on a Mac.
 
