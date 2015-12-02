@@ -68,3 +68,5 @@ fortune | cowsay
 
 Even more command line magic can be found [here](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/). Just make sure to use `brew install` instead of `apt-get` if you're on a Mac.
 
+
+<a href='https://learn.co/lessons/hs-cli-cultural-piece' data-visibility='hidden'>View this lesson on Learn.co</a>
