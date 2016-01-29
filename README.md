@@ -69,4 +69,4 @@ fortune | cowsay
 Even more command line magic can be found [here](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/). Just make sure to use `brew install` instead of `apt-get` if you're on a Mac.
 
 
-<a href='https://learn.co/lessons/hs-cli-cultural-piece' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-cli-cultural-piece' title='CLI Fun Stuff'>CLI Fun Stuff</a> on Learn.co and start learning to code for free.</p>
