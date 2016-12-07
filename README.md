@@ -1,8 +1,8 @@
-
-
-## CLI Fun Stuff
+# CLI Fun Stuff
 
 The command line isn't all business, check out these cool [easter eggs](http://gizmodo.com/a-brief-history-of-easter-eggs-in-tech-5900026) that you can play with in the terminal.
+
+## Easter Eggs
 
 ### Star Wars
 <img src="https://s3.amazonaws.com/after-school-assets/star-wars" style="width:400px;">
